@@ -25,6 +25,11 @@
                 <default>false</default>
                 <label>Ave</label>
             </value>
+            <value>
+                <fullName>Noncustomer</fullName>
+                <default>false</default>
+                <label>Noncustomer</label>
+            </value>
         </valueSetDefinition>
     </valueSet>
 </CustomField>

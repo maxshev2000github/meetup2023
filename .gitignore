@@ -40,3 +40,4 @@ $RECYCLE.BIN/
 .env
 
 manifest/*
+manifest/package.xml
